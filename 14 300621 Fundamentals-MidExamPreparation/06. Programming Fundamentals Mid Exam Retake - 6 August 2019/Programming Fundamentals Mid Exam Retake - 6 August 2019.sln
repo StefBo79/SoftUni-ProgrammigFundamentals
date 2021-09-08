@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Black Flag", "Black Flag\Black Flag.csproj", "{DFF2BDC2-3688-404F-8CF3-A33DA2B50179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt", "TreasureHunt\TreasureHunt.csproj", "{2BB722D5-25CE-4330-A059-74F0F1E75C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManOWar", "ManOWar\ManOWar.csproj", "{296CF3FF-27A4-445F-9258-F9A42A2EFD72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFF2BDC2-3688-404F-8CF3-A33DA2B50179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF2BDC2-3688-404F-8CF3-A33DA2B50179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF2BDC2-3688-404F-8CF3-A33DA2B50179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF2BDC2-3688-404F-8CF3-A33DA2B50179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB722D5-25CE-4330-A059-74F0F1E75C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB722D5-25CE-4330-A059-74F0F1E75C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB722D5-25CE-4330-A059-74F0F1E75C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB722D5-25CE-4330-A059-74F0F1E75C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296CF3FF-27A4-445F-9258-F9A42A2EFD72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296CF3FF-27A4-445F-9258-F9A42A2EFD72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296CF3FF-27A4-445F-9258-F9A42A2EFD72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296CF3FF-27A4-445F-9258-F9A42A2EFD72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A63551F7-B8BF-4888-A97C-46D1FC27E749}
+	EndGlobalSection
+EndGlobal
